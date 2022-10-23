@@ -1,6 +1,6 @@
 var canvas;
 var bg1,bg2,planeImg,bird1,bird2,sky,plane2,BG2,distance=0,life=3;
-var gameState = 2;
+var gameState = 1;
 
 function preload() {
     bg1=loadImage("./img/bg.jpg");
